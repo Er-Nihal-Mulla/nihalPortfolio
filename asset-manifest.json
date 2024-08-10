@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nihalPortfolio/static/css/main.bf538fe7.css",
+    "main.js": "/nihalPortfolio/static/js/main.1c935058.js",
+    "static/media/HeroImage.jpeg": "/nihalPortfolio/static/media/HeroImage.97ff65b83cd2937a00c4.jpeg",
+    "index.html": "/nihalPortfolio/index.html",
+    "main.bf538fe7.css.map": "/nihalPortfolio/static/css/main.bf538fe7.css.map",
+    "main.1c935058.js.map": "/nihalPortfolio/static/js/main.1c935058.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1c935058.js"
+  ]
+}
